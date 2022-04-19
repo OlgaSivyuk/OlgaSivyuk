@@ -11,14 +11,9 @@ I'm Olga Sivyuk and I think code is magic.
 
 ### Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=OlgaSivyuk&theme=buefy&hide_border=true&include_all_commits=false&count_private=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=OlgaSivyuk&theme=buefy&hide_border=true&include_all_commits=false&count_private=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSivyuk&theme=buefy&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSivyuk&theme=buefy&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</a>
-</div>  
+![](https://github-readme-stats.vercel.app/api?username=OlgaSivyuk&&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=OlgaSivyuk&theme=buefy&hide_border=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSivyuk&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!-- ### ✍️Random Dev Quote
