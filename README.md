@@ -2,7 +2,7 @@
 I'm Olga Sivyuk and I think code is magic.   
 
 📚 I'm junior Front-end Developer and currently learning React   
-⚡ I'mStrive to work with real projects and join the team working with passion concerned with more than "the bottom line"   
+⚡ I'm strive to work with real projects and join the team working with passion concerned with more than "the bottom line"   
 
 ### Skills and Technologies:
 
