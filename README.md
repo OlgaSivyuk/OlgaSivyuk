@@ -1,4 +1,4 @@
-<h1>Hi there<img src="./img/wave.gif" width="30px"></h1>
+<h1>Hi there<img src="./img/wave.gif" width="25px"></h1>
 I'm Olga Sivyuk and I think code is magic.   
 
 📚 I'm junior Front-end Developer and currently learning React   
