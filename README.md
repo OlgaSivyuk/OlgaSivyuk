@@ -8,11 +8,15 @@ I'm Olga Sivyuk and I think code is magic.
 
 ### Technologies:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
+<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React) -->
+
+<img src="./img/react_icon.png" alt="React" height = 30> <img src="./img/css3_icon.png" alt="CSS3" height = 30> <img src="./img/html5_icon.png" alt="HTML5" height = 30> <img src="./img/js_icon.png" alt="JavaScript" height = 30> 
 
 ### Use:  
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/-Git-141130?style=for-the-badge&logo=GIT&logoColor=FFFFFF)
+<!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/-Git-141130?style=for-the-badge&logo=GIT&logoColor=FFFFFF) -->
+
+<img src="./img/webpack_icon.png" alt="Webpack" height = 30> <img src="./img/git_icon.png" alt="GIT" height = 30> <img src="./img/figma_icon.png" alt="Figma" height = 30>
 
 ### Github Stats:
 
