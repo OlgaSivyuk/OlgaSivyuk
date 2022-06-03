@@ -10,7 +10,7 @@ I'm Olga Sivyuk and I think code is magic.
 
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React) -->
 
-<img src="./img/react_icon.png" alt="React" height = 30> <img src="./img/css3_icon.png" alt="CSS3" height = 30> <img src="./img/html5_icon.png" alt="HTML5" height = 30> <img src="./img/js_icon.png" alt="JavaScript" height = 30> 
+<img src="./img/react_icon.png" alt="React" height = 30> <img src="./img/css3_icon.png" alt="CSS3" height = 30> <img src="./img/html5_icon.png" alt="HTML5" height = 30> <img src="./img/js_icon.png" alt="JavaScript" height = 30>
 
 ### Use:  
 
@@ -32,6 +32,8 @@ I'm Olga Sivyuk and I think code is magic.
 
 ### My contacts:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-sivyuk)  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-sivyuk)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/olga.sivyuk)  
-
+ -->
+<a  href="https://www.linkedin.com/in/olga-sivyuk" target="_blank"><img src="./img/in_icon.png" alt="In" height = 30></a>
+<a  href="https://t.me/sivyuko" target="_blank"><img src="./img/tg_icon.png" alt="Telegram" height = 30></a>
