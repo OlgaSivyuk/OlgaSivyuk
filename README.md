@@ -1,7 +1,9 @@
-<h1>Hi there<img src="./img/wave.gif" width="25px"></h1>
+<h1>Hi there 👋</h1>
+<!-- <img src="./img/wave.gif" width="25px"> -->
 I'm Olga Sivyuk and I think code is magic.   
 
-📚 I'm junior Front-end Developer and currently learning React   
+📚 I'm Yandex.Practicum student and currently learning React  
+🤝 Ready to collaborate with experienced colleagues
 ⚡ I'm strive to work with real projects and join the team working with passion concerned with more than "the bottom line"   
 
 ### Technologies:
@@ -26,5 +28,6 @@ I'm Olga Sivyuk and I think code is magic.
 
 ### My contacts:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/olga.sivyuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-sivyuk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-sivyuk)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/olga.sivyuk)  
 
