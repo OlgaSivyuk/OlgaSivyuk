@@ -14,8 +14,9 @@ I'm Olga Sivyuk and I think code is magic
 
 <img src="./img/react_icon.png" alt="React" height = 30> <img src="./img/css3_icon.png" alt="CSS3" height = 30> <img src="./img/html5_icon.png" alt="HTML5" height = 30> <img src="./img/js_icon.png" alt="JavaScript" height = 30>  
 
-**Backend**
+**Backend**  
 <img src="./img/node-icon.png" alt="NodeJS" height = 30> <img src="./img/express-icon.png" alt="Express" height = 30>
+
 ### Use:  
 
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/-Git-141130?style=for-the-badge&logo=GIT&logoColor=FFFFFF) -->
