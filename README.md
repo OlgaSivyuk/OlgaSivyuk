@@ -2,7 +2,7 @@
 <!-- <img src="./img/wave.gif" width="25px"> -->
 I'm Olga Sivyuk and I think code is magic    
   
-📚 I'm Yandex.Practicum student and currently learning React  
+<!-- 📚 I'm Yandex.Practicum student and currently learning React  -->
 🤝 Ready to collaborate with experienced colleagues  
 ⚡ I'm strive to work with real projects and join the team working with passion concerned with more than "the bottom line"   
 🌱 My motivation is to help people or businesses interact quickly and painlessly with web products  
