@@ -23,11 +23,11 @@ I'm Olga Sivyuk and I think code is magic
 
 <img src="./img/webpack_icon.png" alt="Webpack" height = 30> <img src="./img/git_icon.png" alt="GIT" height = 30> <img src="./img/mongodb-icon.png" alt="Mongodb" height = 30> <img src="./img/figma_icon.png" alt="Figma" height = 30>
 
-### Github Stats:
+<!-- ### Github Stats: -->
 
-![](https://github-readme-stats.vercel.app/api?username=OlgaSivyuk&&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=OlgaSivyuk&&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=OlgaSivyuk&theme=buefy&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSivyuk&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSivyuk&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 
 <!-- ### ✍️Random Dev Quote
