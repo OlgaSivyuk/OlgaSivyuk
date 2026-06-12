@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <!-- <img src="./img/wave.gif" width="25px"> -->
-I'm Olga Sivyuk and I think code is magic    
+I'm Olga Sivyuk I enjoy turning ideas into digital products.    
   
 <!-- 📚 I'm Yandex.Practicum student and currently learning React  -->
 🤝 Ready to collaborate with experienced colleagues  
