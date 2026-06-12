@@ -1,6 +1,6 @@
-<h1>Hi there 👋</h1>
+<h1>Hi I'm Olga 👋</h1>
 <!-- <img src="./img/wave.gif" width="25px"> -->
-I'm Olga Sivyuk I enjoy turning ideas into digital products.    
+I enjoy turning ideas into digital products.    
   
 <!-- 📚 I'm Yandex.Practicum student and currently learning React  -->
 🤝 Ready to collaborate with experienced colleagues  
