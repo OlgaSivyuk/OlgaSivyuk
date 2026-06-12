@@ -3,11 +3,11 @@
 I enjoy turning ideas into digital products.    
 
 ### Current interests: 
-⚡ Product Development 
-⚡ Mobile Applications 
-⚡ User Experience 
-⚡ AI & Automation 
-⚡ Digital Innovation 
+⚡ Product Development  
+⚡ Mobile Applications  
+⚡ User Experience  
+⚡ AI & Automation  
+⚡ Digital Innovation  
 <!--🤝 Ready to collaborate with experienced colleagues  
 ⚡ I'm strive to work with real projects and join the team working with passion concerned with more than "the bottom line"   
 🌱 My motivation is to help people or businesses interact quickly and painlessly with web products-->  
