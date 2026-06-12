@@ -20,8 +20,6 @@ I enjoy turning ideas into digital products.
   
 <img src="./img/node-icon.png" alt="NodeJS" height = 30> <img src="./img/express-icon.png" alt="Express" height = 30>
 
-### Use:  
-
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/-Git-141130?style=for-the-badge&logo=GIT&logoColor=FFFFFF) -->
 
 <img src="./img/webpack_icon.png" alt="Webpack" height = 30> <img src="./img/git_icon.png" alt="GIT" height = 30> <img src="./img/mongodb-icon.png" alt="Mongodb" height = 30> <img src="./img/figma_icon.png" alt="Figma" height = 30>
